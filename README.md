@@ -1,2 +1,2 @@
-# PAcMan-Game
+# PacMan-Game
 Coding clasic PacMan game
